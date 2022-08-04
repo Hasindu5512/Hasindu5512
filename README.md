@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasindu Mendis</h1>
-<h3 align="center">Prototype Developer | Mobile Developer Intern</h3>
+<h3 align="center">Undergraduate Software Engineer | Mobile Developer Intern</h3>
 <h3 align="center">Software Engineer Undergraduate</h3>
 
 </br>
